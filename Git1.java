@@ -1,8 +1,8 @@
 
 public class Git1 {
 	public static void main(String[] args) {
-		System.out.println("vignesh");
-		System.out.println("nandhini");
+		System.out.println("vignesh is worked in IT");
+		System.out.println("nandhini is working in it sector");
 	}
 
 }
